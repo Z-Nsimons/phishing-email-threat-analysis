@@ -24,8 +24,11 @@ This is targeted at consumers who are actively expecting a package; increasing t
 
 ### Phishing Indicators
 **Display Name:** FedEx '<TrackingUpdates@emails-track.com>'
+
 **Legitimate Domain:** 'fedex.com'
+
 **Pressure Tactic:** "If we do not receive a response the package will be returned to sender
+
 **Urgency Indicators:** "Delivery Attempted", immediate call-to-action
 
 Additional indicators include brand impersonation, generic messaging, and a lack of personalized delivery details.
